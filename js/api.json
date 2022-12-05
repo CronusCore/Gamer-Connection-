@@ -1,0 +1,81 @@
+[
+    {
+        "Nombre": "Mortal Kombat 11",
+        "precio": "$1400",
+        "stock": "12",
+        "descripcion": "Pelea con tus personajes favoritos y obten la victoria.",
+        "imagen": "http://drive.google.com/uc?export=view&id=1pg_rddEzzjmW6nkj2qHVIvVmiAnZGA-0"
+    },
+
+    {
+        "Nombre": "Minecraft",
+        "precio": "$700",
+        "stock": "23",
+        "descripcion": "Disfruta la vida en un mundo cuadrado, juega con tus amigos haciendo construcciones.",
+        "imagen": "http://drive.google.com/uc?export=view&id=1VFhydqsDFcZ8c-p1MV6zET30hawyuyJm" 
+    },
+
+    {
+        "Nombre": "The Legend of Zelda Breath of the Wild",
+        "precio": "$1600",
+        "stock": "14",
+        "descripcion": "Defiende el mundo de Hyrule y rescata a la princesa Zelda",
+        "imagen": "http://drive.google.com/uc?export=view&id=1XJNNjBaxZkGMujcB7-zHwnPpPxtPnOex" 
+    },
+
+    {
+        "Nombre": "Super Smash Brothers Ultimate",
+        "precio": "$1600",
+        "stock": "21",
+        "descripcion": "Pelea con tus personajes favoritos de Nintendo y obten la victoria contra tus amigos.",
+        "imagen": "http://drive.google.com/uc?export=view&id=1r8BJ78YZ4O0v3j_Ti33MOwXCyDRWu7CR" 
+    },
+
+    {
+        "Nombre": "Sekiro Shadows Die Twice",
+        "precio": "$1200",
+        "stock": "11",
+        "descripcion": "Como un buen maestro de la espada, elimina a todos tus enemigos salvando lo mas importante.",
+        "imagen": "http://drive.google.com/uc?export=view&id=1XF1Y0o5RdjnXJr0ja79ggaQlT5pLjO67" 
+    },
+
+    {
+        "Nombre": "Resident Evil 4",
+        "precio": "$700",
+        "stock": "6",
+        "descripcion": "Adentrate en el mundo de los zombies, trata de sobrevivir sin ser infectado.",
+        "imagen": "http://drive.google.com/uc?export=view&id=1HDGvMVjD2TRbT176g9G3uD7hQa1x9myr" 
+    },
+
+    {
+        "Nombre": "Spider-Man",
+        "precio": "$1200",
+        "stock": "6",
+        "descripcion": "Jega como tu heroe favorito y buen vecino, Spider-man, salvando a todo el mundo.",
+        "imagen": "http://drive.google.com/uc?export=view&id=13uvwCDmQXrhSAngfctAyOeY_JBvmfUhL" 
+    },
+
+    {
+        "Nombre": "GTA V",
+        "precio": "$547",
+        "stock": "10",
+        "descripcion": "En la ciudad de los Angeles, encarna a tres iconicos personajes y cumple cualquier mision impuesta.",
+        "imagen": "http://drive.google.com/uc?export=view&id=1mYSUgLIHvfaoFnPBipzYsjyBzDvBK9WT" 
+    },
+
+    {
+        "Nombre": "Super Mario Odyssey",
+        "precio": "$1400",
+        "stock": "15",
+        "descripcion": "Una nueva aventura de Mario, en donde nuevamente tendras que salvar a la princesa Peach",
+        "imagen": "http://drive.google.com/uc?export=view&id=1wWK9NWS2y54Bzs6Fvddd4b0tUDMYLtkh" 
+    },
+
+    {
+        "Nombre": "Killer Instinc",
+        "precio": "$550",
+        "stock": "13",
+        "descripcion": "El mejor juego de peleas de toda la historia. Juega contra tus amigos en un combate a muerte",
+        "imagen": "http://drive.google.com/uc?export=view&id=1X_v-XKuZgsVepw6-Beaxme-UdtuwxFz-" 
+    }
+]
